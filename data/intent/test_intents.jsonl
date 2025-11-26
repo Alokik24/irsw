@@ -1,0 +1,14 @@
+{"text": "Does the company have a carbon neutrality goal?", "label": "ENV_TARGETS"}
+{"text": "What steps are taken to reduce operational emissions?", "label": "ENV_POLICIES"}
+{"text": "How does the company promote workplace diversity?", "label": "SOC_POLICIES"}
+{"text": "What efforts support local communities?", "label": "SOC_IMPACT"}
+
+{"text": "How is the board structured to manage ESG issues?", "label": "GOV_STRUCTURE"}
+{"text": "What internal audit policies exist?", "label": "GOV_COMPLIANCE"}
+
+{"text": "Is there any long-term decarbonisation road map?", "label": "ENV_TARGETS"}
+{"text": "What environmental programs reduce waste?", "label": "ENV_POLICIES"}
+{"text": "What social benefits do employees receive?", "label": "SOC_POLICIES"}
+{"text": "How does the firm support education-based social projects?", "label": "SOC_IMPACT"}
+{"text": "Which committees oversee risk and governance?", "label": "GOV_STRUCTURE"}
+{"text": "What compliance measures govern reporting?", "label": "GOV_COMPLIANCE"}

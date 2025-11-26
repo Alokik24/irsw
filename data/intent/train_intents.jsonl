@@ -1,0 +1,24 @@
+{"text": "What are the company's carbon reduction targets?", "label": "ENV_TARGETS"}
+{"text": "Does the firm have a net-zero commitment?", "label": "ENV_TARGETS"}
+{"text": "How much does the company plan to cut emissions by 2030?", "label": "ENV_TARGETS"}
+{"text": "What climate targets were set in the ESG report?", "label": "ENV_TARGETS"}
+{"text": "What environmental policies has the company adopted?", "label": "ENV_POLICIES"}
+{"text": "How does the firm manage climate-related risks?", "label": "ENV_POLICIES"}
+{"text": "What initiatives support renewable energy?", "label": "ENV_POLICIES"}
+{"text": "Does the company have a sustainability policy for operations?", "label": "ENV_POLICIES"}
+{"text": "What social policies are in place for employees?", "label": "SOC_POLICIES"}
+{"text": "How does the organisation support diversity and inclusion?", "label": "SOC_POLICIES"}
+{"text": "What training programs exist for staff development?", "label": "SOC_POLICIES"}
+{"text": "How are employee health and wellbeing supported?", "label": "SOC_POLICIES"}
+{"text": "What community initiatives has the company participated in?", "label": "SOC_IMPACT"}
+{"text": "How does the company contribute to social development?", "label": "SOC_IMPACT"}
+{"text": "What impact did its CSR programs create?", "label": "SOC_IMPACT"}
+{"text": "How does the firm support vulnerable communities?", "label": "SOC_IMPACT"}
+{"text": "What is the company's governance structure?", "label": "GOV_STRUCTURE"}
+{"text": "Who sits on the board committees?", "label": "GOV_STRUCTURE"}
+{"text": "How is ESG oversight assigned at the board level?", "label": "GOV_STRUCTURE"}
+{"text": "What committees manage ESG-related risks?", "label": "GOV_STRUCTURE"}
+{"text": "How does the company ensure compliance with governance standards?", "label": "GOV_COMPLIANCE"}
+{"text": "Are there internal controls or audit processes?", "label": "GOV_COMPLIANCE"}
+{"text": "What measures ensure ethical conduct?", "label": "GOV_COMPLIANCE"}
+{"text": "How does the organisation handle regulatory disclosures?", "label": "GOV_COMPLIANCE"}

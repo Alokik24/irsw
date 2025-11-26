@@ -1,0 +1,2224 @@
+ESG 
+DISCLOSURE 
+REPORT
+2023
+
+03
+
+About Peak Re and This Report
+
+04 CEO Message
+
+05
+
+13
+
+ESG at Peak Re
+
+Sustainability at Peak Re
+
+Governance at Peak Re
+
+Performance Standards
+
+ESG Strategy and Initiatives
+
+ESG Strategy Overview
+
+Sustainability Commitments
+
+20 Adapting to Climate Change
+
+Responding to Climate Change
+
+25
+
+29
+
+SDGs + CSR
+
+Contributions to SDGs and CSR
+
+Looking Ahead
+
+Advancing Our Strategy Journey
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Peak Re
+
+Peak Reinsurance Company Limited (“Peak Re" or the “Company”) is a Hong Kong-based 
+global reinsurance company. Since commencing operations in 2012, the Company has 
+grown steadily to rank 27th among global reinsurance groups in terms of net reinsurance 
+premiums written.1  
+
+For the year ended 31 December 2023, Peak Re reported a reinsurance revenue of USD1.56 
+billion and a net profit of USD200 million. With net assets of USD1.28 billion as of 31 December 
+2023, Peak Re is rated A- by AM Best.
+
+Peak Re is authorised by the Insurance Authority of Hong Kong under the Insurance 
+Ordinance (Cap. 41). The Company offers both Property & Casualty (“P&C”) and Life & Health 
+(“L&H”) reinsurance. It provides innovative and tailored reinsurance, risk management and 
+capital management solutions to clients around the world.
+
+Fosun International Limited (00656.HK) and Prudential Financial, Inc. own approximately 87% 
+and 13% of Peak Re, respectively, through Peak Reinsurance Holdings Limited.
+
+About 
+This Report
+
+The Peak Re ESG Disclosure Report 2023 details our commitment to sustainable insurance 
+practices and Environmental, Social and Governance ("ESG") principles. This report 
+illustrates our aim to align with global standards while informing all relevant stakeholders 
+of our ESG frameworks and disclosure procedures across our underwriting, investment and 
+operational activities.
+
+As a signatory to the United Nations Environment Programme Finance Initiative ("UNEP Fl") 
+Principles for Sustainable Insurance ("PSI"), we aim to maintain business conduct in responsible 
+and forward-looking ways that can contribute to sustainable economic development. 
+
+The information presented in this report covers primarily the period from 1 January 2023 to 31 
+December 2023. Major developments in 2024 are also included.
+
+1   "S&P Global Ratings Top 40 Global Reinsurers and Reinsurers by Country: 2023”, S&P Global Ratings, 2023.
+
+CEO Message
+
+Franz-Joseph Hahn
+Chief Executive Officer
+
+Adherence to environmental, social, and governance 
+("ESG") principles is at the core of Peak Re’s founding 
+mission and ongoing operations. This commitment is 
+evident in our meticulous and sustained management of 
+climate and environmental risks. The stakes are incredibly 
+high, as demonstrated by the increasing frequency 
+and severity of extreme weather events in recent 
+years. The looming climate crisis is poised to escalate 
+costs for households, corporations, and societies. 
+
+Insurance and reinsurance play a crucial role in mitigating damage and 
+supporting swift recovery. However, the complexity of these issues and the 
+necessary realignment of interests among different stakeholders often lead to 
+market dislocations, as seen in our industry in 2022 and 2023. Despite these 
+challenges, significant progress has been made, and the global reinsurance 
+market is now better equipped to support climate change management 
+efforts. I am confident that our dedication to sustainable development and 
+strict adherence to ESG principles will enable us to navigate these challenges 
+effectively, positioning us well to manage risks and seize emerging opportunities.
+
+I firmly believe that the ESG challenges we face underscore the critical role 
+of insurance and reinsurance in the markets we serve. Asia’s burgeoning 
+middle class is the cornerstone of global sustainable development, and 
+protecting these communities is central to Peak Re’s founding mission.
+
+In addition to striving to improve our ESG practices, transparency in our actions 
+and effective communication are also vital. Our ESG policies are designed to 
+mitigate material risks across our business lines and support financial performance 
+while uplifting communities. This report demonstrates how this dual approach 
+is both possible and essential, showcasing the sustainability principles that 
+strengthen our underwriting, investment, and operational frameworks.
+
+As a purpose-driven organisation, advancing society and the reinsurance 
+industry has been at the heart of Peak Re’s founding principles. We strive to 
+uphold this mission through responsible practices across our business.
+
+4
+
+Peak Re ESG Disclosure Report 2023
+
+ESG at 
+Peak Re
+
+Protect Against Risks 
+and Support Sustainable 
+Development
+
+5
+
+Peak Re ESG Disclosure Report 2023
+
+ESG at Peak Re
+
+Sustainability at Peak Re   
+
+Peak Re was established in 2012 with a mission 
+to modernise reinsurance to support the 
+protection needs of a rapidly growing middle 
+class in emerging Asia and beyond. Since 
+its establishment, Peak Re has embedded 
+sustainability principles in its operations, diversity 
+in its culture, an active engagement in social 
+responsibility and a dedication to continually 
+evaluating and advancing our ESG goals. 
+
+We have been a signatory to the United Nations 
+Environment Programme Finance Initiative ("UNEP 
+FI") Principles for Sustainable Insurance (“PSI”) 
+since 2012, demonstrating our long-standing 
+commitment to sustainability. In 2024, Peak Re 
+became one of the 33 inaugural signatories to the 
+Hong Kong Insurance Industry Climate Charter 
+("Climate Charter") developed by the Hong Kong 
+Federation of Insurers ("HKFI"), committing to 
+aligning with the Hong Kong government’s carbon 
+neutrality target.
+
+ESG and sustainability fundamentals   
+
+Our sustainability framework, with its top-down 
+approach, allows us to effectively monitor 
+and manage a diverse array of ESG risks 
+while meeting our business objectives. 
+
+In addition to our ESG risk monitoring 
+framework, our underwriting and 
+investment portfolios also undergo an 
+environmental and social screening.
+
+Furthermore, our active approach to 
+sustainability and research opens us up 
+to new business opportunities in new risk 
+solutions and investments in low-carbon 
+
+technologies or fuels, climate adaptation and 
+nature-based solutions. In particular, we look 
+to working together with our clients to create 
+innovative solutions and products supporting our 
+sustainability objectives.
+
+Given Peak Re’s expanding business portfolio and 
+the evolving landscape around sustainability, we 
+have embarked to thoroughly assess our existing 
+ESG framework, benchmarking it against the 
+evolving expectations of our stakeholders and 
+the latest global industry practices. This includes 
+a review of our data and processes that would 
+help deepen ESG integration in our underwriting, 
+investment and corporate operations.
+
+Our sustainability framework
+
+                ENVIRON
+
+Physical Risk
+Destruction 
+of physical
+inventory
+
+ME
+N
+T
+A
+L
+
+Transition 
+Risk 
+Product or 
+sectors become 
+obsolete
+
+Liability
+Risks
+
+VERNANCE
+     G
+
+O
+
+Compliance
+
+Anti-bribery/
+Anti
+Corruption
+
+Governance
+
+Working
+Conditions
+
+Human
+Rights
+
+SOCIAL
+
+6
+
+Peak Re ESG Disclosure Report 2023
+
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance at Peak Re   
+
+We recognise that our stakeholders’ ESG 
+governance and monitoring expectations continue 
+to evolve and expect to refine our ESG governance 
+framework in keeping with these changes. 
+
+Currently, the responsibility for ESG governance 
+at Peak Re sits with the executive committee, as 
+delegated by the Board. The accountability for ESG 
+integration is further taken up by different functions, 
+including risk management on ESG risk assessment 
+and regulatory requirements, analytics on climate 
+risk assessment, the investment team on enabling 
+ESG integration in investment portfolios, corporate 
+communications on ESG disclosures and research 
+on understanding the impacts of developing 
+and emerging ESG risks and opportunities. Some 
+functions have appointed dedicated ESG personnel 
+responsible for the ESG initiatives and integration 
+within their functions.
+
+In 2023, we conducted a peer and industry analysis 
+to understand the global industry best practices 
+on ESG governance. We also regularly engage with 
+industry bodies, regulators, ESG experts and the 
+academia on ESG and green finance in Hong Kong, 
+to keep abreast of developments on these topics.
+
+We expect further reviews of our ESG 
+strategy to encompass the deepening of the 
+ESG governance structures, and setting of 
+
+workstreams, target key performance indicators 
+(KPIs) and reporting mechanisms. 
+
+Three lines of defence
+
+Our "Three Lines of Defence" model for enterprise 
+risk management underpins our governance and 
+risk management framework. It helps mitigate 
+business risks and protect against negative impacts 
+from normal business operations. All our major 
+decision-making processes, including monitoring of 
+sustainability-related risks and practices, fall under 
+this risk management structure. 
+
+The first line of defence refers to functions that 
+own and manage processes and internal control 
+systems. The second line encompasses the 
+compliance, legal, and risk management oversight 
+of all risk management activities including the 
+monitoring of risk limits. The third line includes an 
+internal audit or validation of all controls within the 
+first and second lines of defence.
+
+This model allows us to proactively manage and 
+address risks with clear accountability, objective 
+and independent oversight of risks, and a thorough 
+risk awareness through the organisation of our risk 
+appetite and capacity, and how it scales down to 
+the granular metrics designed to use by business 
+teams in their day-to-day decision making.  
+
+Our three lines of defence
+
+1st Line of defence
+
+2nd Line of defence
+
+3rd Line of defence
+
+Operating units
+
+Design processes and
+internal control system
+
+Compliance and
+risk functions
+
+Provide independent oversight
+of Peak Re’s risk-taking and
+risk-management activities 
+and assessing informal controls
+
+Internal audit function
+
+Provide independent 
+validation of the 
+risk-mitigation controls in the 
+ﬁrst two lines of defence
+
+7
+
+Peak Re ESG Disclosure Report 2023
+
+Our governance model
+
+e
+c
+n
+a
+r
+u
+s
+s
+a
+
+t
+i
+d
+u
+a
+
+l
+
+a
+n
+r
+e
+t
+n
+
+i
+
+,
+t
+h
+g
+i
+s
+r
+e
+v
+o
+
+d
+n
+a
+
+g
+n
+
+i
+t
+r
+o
+p
+e
+R
+
+s
+e
+c
+n
+a
+r
+e
+
+l
+
+o
+t
+
+d
+n
+a
+
+s
+e
+t
+i
+t
+e
+p
+p
+a
+k
+s
+i
+r
+
+,
+
+e
+n
+o
+t
+
+d
+n
+a
+
+e
+r
+u
+t
+l
+
+u
+c
+
+k
+s
+i
+R
+
+Board oversight 
+Board of directors 
+
+Risk management 
+& compliance 
+committee
+
+Nomination & 
+remuneration 
+committee
+
+Investment 
+committee
+
+Audit 
+committee
+
+Executive management oversight 
+
+Functional and operational oversight 
+
+Management committees 
+oversight mechanism
+•  Proﬁtabilty studies and review 
+•  Reserving reviews 
+•  Pricing reviews and approvals 
+•  Asset and liability management
+
+Policies and processes
+
+•  Board approved policies, internal  
+  guidance and procedures  
+  applied to key functions and  
+  processes 
+•  Annual business planning and    
+  budgeting process 
+•  Delegated authorities and  
+
+signing authorities
+
+First line functions
+
+•  Hold responsible for maintaining effective  
+internal controls and executing risk and   
+control procedures on a day-to-day basis 
+
+Second line functions
+Enterprise risk management and compliance 
+
+•  Facilitates and monitors the implementation 
+of effective risk management practices 
+•  Monitors the adequacy and effectiveness of  
+internal control, accuracy and completeness  
+of reporting, compliance with laws and    
+regulation
+
+Third line functions
+
+•  Internal audit function to provide the Board  
+and senior management with comprehensive  
+assurance based on the highest level of   
+independence and objectivity within the  
+
+  Company
+
+8
+
+Peak Re ESG Disclosure Report 2023
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance framework
+
+Our governance policies inform all decision-making 
+processes, and we continuously update this 
+framework to align with emerging risks. Peak Re’s 
+Board of Directors (the “Board”) upholds the highest 
+standards of corporate governance in accordance 
+with the regulatory requirements of the Hong Kong 
+Insurance Authority (“HKIA”). 
+
+In particular, the composition of our Board includes 
+a higher percentage of independent non-executive 
+directors (“INEDs”) than required by the HKIA and 
+all the Board Committees are chaired by our INEDs, 
+which further strengthens our independence and 
+governance. The four Board committees that 
+support the Board’s oversight capacity, are:
+
+   ■ Audit committee
+   ■ Investment committee
+   ■ Risk management and compliance committee
+   ■ Nomination and remuneration committee
+
+The director appointments are subject to regulatory 
+approvals. The Board meets four times a year or 
+more frequently as required. At the quarterly board 
+meetings, the average director attendance was 
+96% in the year 2023.
+
+ESG training 
+
+Capacity building through ESG training is critical 
+to integrating ESG across our business. We aim 
+
+to advance the firm’s ESG awareness in line with 
+evolving stakeholder expectations at all levels of 
+governance.
+
+In 2023, our Board members received an ESG-
+focused training to deepen their knowledge 
+on ESG topics and to stay abreast of the latest 
+developments in the field. 
+
+As part of our governance commitment, we 
+regularly provide trainings for our employees on 
+anti-money laundering ("AML"), counter-terrorist 
+financing ("CTF"), anti-bribery and anti-corruption, 
+data protection and sanctions compliance at 
+a group-wide level. In 2023, we also included 
+a mandatory compliance training module on 
+“Diversity, Equality, and Inclusion”, as part of our 
+continuous commitment to discussing this topic.
+
+In addition to our established ESG training and 
+communications, in 2022-23 we added ESG 
+seminars that draw on the expertise of external 
+consultants and business partners to share their 
+views. These addressed recent and forward-
+looking sustainability trends, courses of action for 
+combating climate change, emissions-reduction 
+targets, and the general criteria for setting Science-
+Based Targets ("SBTs"). 
+
+Learnings from these sessions expand staff 
+knowledge and engagement, help us communicate 
+accurately with stakeholders, and promote ESG 
+integrate across functions. 
+
+Performance Standards   
+
+Our underwriting and investment portfolios 
+undergo screening to limit exposure to companies, 
+sectors and risk factors that conflict with our 
+sustainability goals.
+
+munitions are core tenets of a business or asset. 
+Operations that may involve exposure to human 
+rights abuses or environmental degradation are 
+also of high concern and are actively excluded 
+whenever such issues are confirmed.
+
+ESG screening
+
+Our exclusions correspond to the eight Performance 
+Standards ("PS") set out by the IFC, which establish 
+clear and forward-looking methods of identifying 
+and assessing ESG impacts, risks or opportunities. 
+
+A number of international conventions and 
+instruments, including the International Labour 
+Organization ("ILO") and the United Nations ("UN"), 
+have been influential in guiding the development of 
+these standards. 
+
+We review each underwriting and investment 
+opportunity for exposure thresholds and exclude 
+those where gambling, tobacco products or 
+
+Starting in 2023, we further enhanced exclusions 
+to better adjust for ESG risk in our underwriting 
+processes. Business transacted must comply with 
+not only legal and regulatory requirements but also 
+with high ethical and moral standards that respect 
+human rights, and are supportive of sustainable 
+and environment-friendly development. 
+
+Specifically, we enacted exclusions in our 
+facultative reinsurance businesses (typically one-
+off single-risk reinsurance solutions) to cover new 
+construction projects of coal-based power plants 
+or coal mines. Guidelines also restrict underwriting 
+for new business directly involved in the exploration, 
+drilling or production of oil and gas from the Arctic 
+
+9
+
+Peak Re ESG Disclosure Report 2023
+
+Basin as well as for projects involving fossil fuel 
+extraction from oil or tar sands. Exceptions to 
+this policy are only allowed where the risk relates 
+to companies that are Paris-Agreement aligned 
+with credible transition plans, or where social 
+
+needs for power generation are significant, such 
+as for projects in developing countries with low 
+electrification rates. Our Chief Underwriting Officer 
+holds the final decision on guideline exceptions.
+
+Our performance standards
+
+We review each investment and underwriting business 
+for expoure thresholds in relation to the IFC Performance 
+Standards, which consist if the following:
+
+PS1
+Assessment and 
+management of 
+environmental and 
+social risks and 
+impacts
+
+PS5
+Land acquisition 
+and involuntary 
+resettlement
+
+PS2
+Labour and 
+working 
+conditions
+
+PS3
+Resource 
+efficiency and 
+pollution 
+prevention
+
+PS4
+Community 
+health, safety 
+and security
+
+PS6
+Biodiversity 
+conservation and 
+sustainable 
+management of 
+living natural 
+resources
+
+PS7
+Indigenous peoples
+
+PS8
+Cultural heritage
+
+Guidelines for screening and tracking of S&E exclusions
+
+EXCLUSION LIST 
+(Investment and reinsurance contract exposure)
+
+INDICATED PERFORMANCE STANDARDS
+
+llegal production or trading 
+
+PS1
+
+Weapons and munitions 
+
+Alcoholic beverages 
+
+Tobacco 
+
+Gambling and casinos 
+
+Radioactive materials 
+
+Asbestos ﬁbers 
+
+Drift net ﬁshing 
+
+PS4
+
+PS4
+
+PS4
+
+PS4
+
+PS3
+
+PS4
+
+PS6
+
+PS3
+
+PS4
+
+PS6
+
+Human rights, forced or child labour 
+
+PS2
+
+Forestry and logging 
+
+PS5 PS6
+
+PS7 PS8
+
+10
+
+Peak Re ESG Disclosure Report 2023
+
+Diversity and inclusion
+
+Diversity and inclusion at Peak Re form a significant source of corporate strength 
+by bringing diverse and innovative ideas and strengthening decision-making. As of 
+year-end 2023, our staff of over 130 employees represented 18 nationalities. We also 
+take pride in the fact that 45% of our leadership roles are held by women. Our code 
+of conduct prohibits discrimination on any grounds and we follow anti-discrimination 
+ordinances in the different jurisdictions where we operate. As part of our ESG strategy 
+review we expect to bring in more ideas to deepen our diversity and inclusion initiatives 
+and policies, especially in the areas of recruitment and employee development.
+
+Diversity and inclusion: our people
+
+130+ Employees
+
+45%
+
+Women in 
+functional 
+leadership
+
+18
+
+Nationalities
+
+21
+
+Languages
+
+42% of new hires 
+
+are women
+
+55% of promoted 
+
+employed in 
+2023 were 
+women
+
+Engagements
+
+We actively engage with governments, regulatory bodies, academia, research 
+institutions and other stakeholders on the development of sustainable investment and 
+insurance policies.
+
+   ■ In February 2024, Peak Re joined the HKFI's Climate Charter as one of its 33 inaugural 
+members, committing to align with the Hong Kong's Climate Action Plan 2050 and a 
+commitment to publishing scope 1 and 2 interim targets by 2026. In parallel, we have 
+continued to make progress on integrating sustainability in our operations, which was 
+recognised by the WELL Certification - Gold in 2024.
+
+   ■ In September 2024, Peak Re hosted its inaugural forum on the topic of 
+
+“Sustainability in a Changing World”, where we invited in-house and industry 
+experts to discuss strategies on closing the protection gaps in Asia, as well as 
+sharing the cutting-edge research on climate risk.
+
+11
+
+Peak Re ESG Disclosure Report 2023
+
+   ■ The views of Peak Re’s natural catastrophe modelling team are also regularly 
+
+sought at regional events and media engagements. These included the Artemis ILS 
+Asia 2024 conference, the Bloomberg Insurance Forum 2024, Bloomberg interview 
+on the “once-in-500-years” Hong Kong black rainstorm in 2023, and discussions on 
+”Future-proofing the catastrophe models” at Singapore Actuarial Conference 2023.
+
+   ■ In 2024, Peak Re was a part of the Fosun ESG Ambassadors program, designed 
+to share ideas and learn about the ESG innovations and progress within the 
+Fosun group of companies, as well as learn about the latest ESG and sustainable 
+finance advances from external experts.
+
+   ■ Peak Re is represented at the HKFI, including the Task-force on Green Insurance, 
+
+which looks to advance sustainable insurance initiatives in Hong Kong and 
+the Greater Bay Area. Peak Re is also represented at Hong Kong’s Green and 
+Sustainable Finance Cross-Agency Steering Group (“CASG”), whose aim is to 
+create a comprehensive green finance ecosystem in Hong Kong.
+
+   ■ In addition, since 2015, Peak Re has an ongoing collaboration with the Shanghai 
+Typhoon Institute ("STI") and Shanghai Central Meteorological Observatory 
+("SCMO") to provide storm predictions in the Northwest Pacific Basin and the 
+South China Sea to insurers.
+
+12
+
+Peak Re ESG Disclosure Report 2023
+
+ESG Strategy 
+& Initiatives
+
+Build Resilience with Reinsurance 
+Products and Programmes
+
+ESG Strategy 
+& Initiatives
+
+ESG Strategy Overview   
+
+Our founding mission to modernise reinsurance while 
+supporting the needs of the emerging middle-classes informs 
+our strategy and aligns with the commitment to sustainable 
+insurance. Examples of our commitment to creating positive 
+impact through our business include our participation in 
+reinsuring renewable energy across the globe, microinsurance 
+schemes in Southeast Asia, crop insurance in Asia, disaster 
+relief and natural peril pools and inclusive health insurance 
+policies and public–private partnership ("PPP") schemes. We 
+aim to ramp up the integration of ESG into our business along 
+with developing appropriate targets and metrics that are 
+aligned with international best practices. 
+
+In February 2024, Peak Re joined the Hong Kong Insurance 
+Industry Climate Charter ("Climate Charter") as one of its 33 
+inaugural members, committing to align with the Hong Kong's 
+Climate Action Plan 2050 and a commitment to publishing 
+scope 1 and 2 interim targets by 2026. In parallel, we have 
+continued to make progress on integrating sustainability in our 
+operations, which was recognised by the WELLs gold standard 
+certification in 2024.
+
+Materiality assessment
+
+Approach to materiality assessment
+
+Long list of ESG factors
+Included industry speciﬁc considerations, current and 
+emerging ESG topics and peer practices
+
+Stakeholder engagement
+Included interviews and online employee surveys, with 
+special considerations for teams engaging with clients 
+and regulators to assess the external stakeholder view
+
+Final assessment
+Risk and ﬁnance functions were engaged to rank the 
+impact and likelihood of each topic
+
+In 2023-24, we conducted a double-materiality assessment 
+to inform the development of our ESG initiatives and workplan 
+for the coming years. We expect to continue refining our 
+materiality approach and assessment in the coming years.
+
+Consolidate and validate
+The shortlisted topics were discussed with leadership 
+to ensure alignment of strategic considerations
+
+Top 5 material topics in terms of impact to and from Peak Re’s activities
+
+Decarbonisation
+
+Increase in 
+climate-related 
+physical risk
+
+Ageing
+population
+
+ESG risks and
+opportunities
+oversight
+
+Economic development
+and ‘Just transition’ in
+emerging markets
+
+14
+
+Peak Re ESG Disclosure Report 2023
+
+Through the double-materiality analysis, we identified five key material topics for Peak Re:
+
+1 Increase in climate-related 
+
+physical risk: The increasing 
+likelihood and severity of physical 
+impacts from climate change, such as 
+extreme weather events like hurricanes 
+and tropical cyclones, as well as 
+secondary perils like flooding, have 
+been identified as material ESG topics 
+for Peak Re. These are key exposures for 
+property and casualty ("P&C") insurers 
+and reinsurers. In 2023, global insured 
+losses from natural catastrophes 
+reached USD 118 billion, surpassing 
+the 21st-century average of USD 90 
+billion and the decadal mean of USD 
+110 billion.2 This marked the seventh 
+consecutive year of higher-than-
+average losses. This trend is crucial to 
+the industry’s financial health and the 
+future insurability of extreme climate 
+risks. However, climate risk also presents 
+an opportunity to support our cedants 
+through our capacity, expertise in 
+natural catastrophe risk underwriting, 
+and innovative products that can 
+aid in climate change mitigation and 
+adaptation.
+
+Global insured
+losses from
+natural
+catastrophes
+(USD billion)
+
+193
+
+21st century
+average
+
+76
+
+61
+
+55
+
+153
+
+151
+
+125
+
+122
+
+118
+
+94
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Source: Climate and Catastrophe Insight, Aon plc, 2024
+
+2 Decarbonisation: The shift from 
+
+carbon-intensive fossil fuels 
+
+to cleaner energy sources is driving 
+significant technological changes 
+and reshaping economies. For P&C 
+insurance and reinsurance, this 
+transition towards net-zero emissions 
+will likely impact risk assessment, 
+product offerings, and underwriting 
+practices. This includes evaluating new 
+technologies and the sustainability of 
+existing practices in carbon-intensive 
+sectors like construction, mining, 
+and utilities. Peak Re is committed to 
+supporting the global energy transition 
+in collaboration with our clients and 
+business partners.
+
+In 2023, Peak Re updated its 
+environmental and social screening 
+guidelines to exclude direct and 
+facultative reinsurance for new 
+construction of coal mining or thermal 
+coal power plants as well as oil 
+drilling and extraction from the Arctic 
+Basin or oil/tar sands. Peak Re is also 
+undergoing an assessment of our 
+scope 1 and 2 emissions and looking at 
+
+2   "Climate and Catastrophe Insight", Aon plc, 2024
+
+approaches to continue reducing the 
+carbon footprint of our operations.
+
+3 Ageing population: The ageing 
+
+demographic presents both risks 
+
+and opportunities for insurers and 
+reinsurers. Many existing products do 
+not adequately meet the needs of 
+the elderly due to underwriting and 
+profitability challenges. Providing 
+reinsurance support for innovative 
+products tailored to the elderly, such 
+as old-age care solutions, healthcare 
+solutions, and annuity covers, will 
+be key to addressing this challenge. 
+Recognising the importance of this 
+issue, Peak Re recently conducted a 
+large-scale consumer survey in 2024 
+on the needs for old-age care among 
+emerging Asian middle class.
+
+4 ESG risks and opportunities 
+
+oversight: With increasing 
+emphasis on ESG from investors, 
+regulators and other stakeholders, 
+adopting robust processes to identify, 
+assess and manage ESG risks and 
+
+opportunities has become a critical 
+focus. Effective ESG oversight is essential 
+for maintaining transparency around 
+sustainability practices and enhancing 
+Peak Re’s reputation with cedants, 
+investors and the broader public in 
+alignment with our corporate mission.
+
+5 Economic development and 
+
+‘Just transition’ in emerging 
+
+markets:  Peak Re’s vision of closing 
+protection gaps for the emerging 
+middle class is closely tied to 
+supporting economic development 
+in emerging markets. As a reinsurer, 
+we help economies recover from 
+shocks such as natural catastrophes, 
+contributing to a more equitable and 
+resilient economic future through our 
+global risk expertise, partnerships, and 
+investment capabilities. The principle 
+of a ‘Just transition’ is embedded 
+within this goal, as we support the 
+energy transition in emerging markets 
+through cedant engagement and new 
+reinsurance opportunities in the energy 
+transition space. 
+
+15
+
+Peak Re ESG Disclosure Report 2023
+
+Our business also supports the United 
+Nations  ("UN") sustainable development 
+goals (SDGs) through our participation 
+in products such as inclusive health 
+and life insurance initiatives, agriculture 
+insurance, infrastructure protection, 
+compensation for business interruption/
+job losses, microinsurance, among 
+others. We look to further formalise our 
+support for sustainable development 
+by improving the alignment of business 
+incentives with these goals.
+
+Beyond these, other topics such as 
+nature-based solutions, climate 
+
+adaptation, and transition financing have 
+recently gained attention, including at 
+industry forums and the United Nations 
+Environment Programme Finance 
+Initiative ("UNEP FI"). While these topics 
+were not reflected in our materiality 
+assessment, we regularly engage in 
+discussions on them, staying aware of 
+emerging risks, opportunities, and ESG 
+developments. Other material topics, 
+such as data privacy, anti-bribery, and 
+anti-money laundering, are crucial to 
+governance and are well-integrated 
+and monitored within Peak Re’s existing 
+policies and oversight mechanisms.
+
+Responsible insurance
+
+Peak Re is committed to driving 
+positive change for both business and 
+society. We collaborate with insurance 
+companies, governments, and non-
+governmental organisations to explore 
+and support innovative and inclusive 
+products. Our entrepreneurial and 
+collaborative approach addresses 
+protection needs for sustainable 
+development across an emerging Asia 
+and beyond.
+
+Concept of sustainable insurance
+
+Reduce risk
+
+Improve business 
+performance
+
+Develop innovative 
+solutions
+
+Contribute to 
+environmental, social & 
+economic sustainability
+
+Examples of Peak Re’s efforts to support sustainability and address the needs of vulnerable groups:
+
+Agricultural insurance
+To safeguard farmer incomes 
+from the strains such as 
+from extreme weather, price 
+volatility, production risks 
+(such as diseases or pests) 
+and natural disasters, Peak 
+Re works with large-scale 
+agriculture schemes in India 
+and Thailand to support 
+insurance protection for 
+farmer incomes. These 
+schemes provide extensive 
+cover against crop failure 
+while reducing the premium 
+burden on farmers.
+
+Hospice care
+Providing support to 
+terminally ill patients towards 
+
+the end of their lives with 
+principles of dignity, respect 
+and meeting their wishes, 
+Peak Re supports hospice 
+care insurance in China. The 
+coverage provides patients 
+with holistic physical, 
+psychological, spiritual and 
+other aspects of humanistic 
+care, while also supporting 
+their family/carers by 
+reducing their financial 
+burden.
+
+Hypertensive severe 
+complications insurance
+In another example of 
+inclusion, Peak Re supports 
+an insurance product for 
+those with pre-existing 
+
+hypertensive conditions. 
+The product covers 
+medical treatments and 
+death benefit for specific 
+complications that could 
+arise from hypertension, such 
+as strokes, severe retinal 
+disease and renal failure. 
+
+Worker’s salary bond
+Peak Re supports worker’s 
+salary bond to protect 
+construction workers in 
+China, from non-payment or 
+delayed salary payments by 
+contracting companies. This 
+helps them receive salary 
+payments on time, thus 
+supporting their families and 
+the wider community. 
+
+Microinsurance
+We support the natural 
+catastrophe protection 
+program of the Center 
+for Agriculture and Rural 
+Development ("CARD") - 
+Pioneer microinsurance in the 
+Philippines. The collaboration 
+provides microinsurance to 
+socially and economically 
+challenged families at 
+affordable prices and brings 
+coverage to families with 
+limited access to insurance.
+
+16
+
+Peak Re ESG Disclosure Report 2023
+
+Our Sustainability Commitments   
+
+Since its establishment, Peak Re has aligned its growth with the founding principle 
+of supporting sustainable economic development. As a reinsurance provider, we 
+are committed to enhancing societal resilience in emerging markets and protecting 
+communities from the impacts of climate change.
+
+UN principles of sustainable insurance: 
+
+Developed by the UN Environment Programme Finance Initiative ("UNEP FI"), Peak Re 
+was among the early signatories of the Principles for Sustainable Insurance ("PSI"), 
+at its launch in 2012.  The principles serve as a global framework for the insurance 
+industry to address ESG risks and opportunities. 
+
+The UNEP FI promotes the concept of sustainable insurance, aiming to reduce risk, 
+develop innovative solutions, improve business performance, and contribute to 
+environmental, social and 
+economic sustainability. 
+Through our regular 
+engagement with the UNEP 
+FI, we stay informed about 
+key focus areas and emerging 
+topics in the insurance sector.  
+
+As a signatory, we are 
+committed to embedding ESG 
+factors across our business 
+and collaborating with partners, regulators, and stakeholders to raise awareness 
+of sustainability issues. Peak Re demonstrates transparency and accountability, 
+fundamental to our PSI membership, through annual ESG disclosure reports.  
+
+Hong Kong Insurance Industry Climate Charter 
+
+Peak Re was one of the 33 inaugural signatories of the Hong Kong Insurance Industry 
+Climate Charter ("Climate Charter") developed by the Hong Kong Federation of 
+Insurers ("HKFI"), launched in February 2024. The Charter demonstrates the Hong Kong 
+insurance industry’s collective commitment to building a sustainable future. 
+
+As part of this commitment, signatories pledged to align with the Hong Kong 
+Climate Action Plan 2050 and the Paris Agreement goals. This involves integrating 
+sustainability into business operations, investments, underwriting, and product 
+design. Signatories will support this by setting emissions targets and measuring and 
+reporting progress towards these climate goals.
+
+Peak Re is a signatory to 
+the Hong Kong Insurance 
+Industry Climate Charter
+
+17
+
+Peak Re ESG Disclosure Report 2023
+
+In addition, Peak Re representatives are also a part of the HKFI Task-force on Green 
+Insurance and the Green and Sustainable Finance Cross-Agency Steering Group 
+("CASG") in Hong Kong, where they contribute to furthering the discussion on green 
+initiatives for the industry.
+
+Launch ceremony of the Hong Kong Insurance Industry Climate Charter
+
+Peak Re's headquarters office is accredited with the WELL Certification - Gold
+
+18
+
+Peak Re ESG Disclosure Report 2023
+
+Sustainability in our operations: 
+
+In line with these commitments, in 2024, we began identifying and scoping key 
+categories of operational emissions for Peak Re’s Hong Kong headquarters, where 
+most of our global operations are based. Our initial assessment highlights the 
+importance of the steps we have taken throughout our growth journey to improve 
+energy efficiency and foster a culture of sustainability within the company. This 
+includes our focus on energy savings and recycling.
+
+These principles were reinforced in November 2022 when we relocated our 
+Hong Kong headquarters to the West Kowloon Cultural District Authority ("WKCDA") 
+Tower, an energy-efficient complex embodying sustainable development principles. 
+The BEAM Plus Gold certified building achieves significant energy optimisation, with 
+reduced lighting consumption, deployment of motion and presence sensors for 
+lighting controls, and temperature sensors that adjust to environmental conditions 
+based on occupancy and natural light levels.
+
+For the year 2023, the scope 1 (direct) operational emissions for Peak Re’s Hong Kong 
+office were negligible, as we do not own any building/stationary combustion sources 
+or company cars. Scope 2 (indirect) operational emissions from purchased electricity 
+are estimated at 0.81 tonnes CO2e/FTE, with average electricity consumption of 
+2074 KWh/FTE. Adjusted for square footage, our new office provides about 15% 
+greater energy efficiency in our operations.
+
+As a services company serving global clients, a considerable part of our 
+operational carbon footprint comes from corporate travel. For 2023, our employee 
+flight mileage was estimated at 8375 miles/ employee with an emissions intensity 
+estimate of 1.35 tonnes CO2e/employee. While in-person meetings are important 
+to our growing global business, we continue to encourage staff to use digital 
+communications whenever possible. 
+
+LEED and WELL certifications
+
+Another example of our commitment to sustainability is the 
+certification of Peak Re’s Hong Kong headquarters with the 
+Leadership in Energy and Environmental Design ("LEED") Gold 
+standard. This award is based on an assessment of various 
+factors, including building materials, workstations, air quality, 
+lighting, noise levels, use of indoor plants, accessibility to public 
+transport and local food options, and the provision of healthy 
+snack options for employees.
+
+In February 2024, Peak Re headquarters also received the WELL 
+Certification - Gold, highlighting our investment in employees’ 
+health and wellbeing, as well as 
+in sustainable office design and 
+operations. The assessment graded 
+Peak Re offices on air quality, water 
+safety, healthy materials, thermal 
+and acoustic comfort, cognitive 
+wellbeing, burnout mitigation, 
+daily movement encouragement, 
+and addressing the diverse needs 
+of the workforce. Meeting these 
+high standards should help attract 
+talent that can support our mission 
+of closing protection gaps for the 
+emerging middle class.
+
+19
+
+Peak Re ESG Disclosure Report 2023
+
+Adapting to 
+Climate Change
+
+Adapt and Innovate for 
+a Robust Future
+
+Adapting to 
+Climate Change
+
+Responding to Climate Change    
+
+2023 marked the seventh consecutive year of 
+global insured catastrophe losses exceeding USD 
+100 billion. It was also the warmest year on record, 
+with temperatures 1.45°C above the pre-industrial 
+period, and 2024 is likely to be even warmer.3 In 
+the first half of 2024, insured losses have reached 
+at least USD 51bn.4
+
+Asia’s natural catastrophe protection gap remains 
+significant, estimated at USD 139 billion per annum 
+by the Global Federation of Insurance Association 
+("GFIA"),5 and it is widening. Rapid economic 
+growth, urbanisation, and the concentration of 
+assets in coastal regions are some drivers of this 
+widening gap, along with the rising frequency and 
+severity of extreme weather events.
+
+Peak Re is committed to developing innovative 
+solutions to close protection gaps in emerging 
+markets in Asia and beyond. We exemplified this 
+commitment by raising Asia’s first sidecar and 
+Hong Kong’s first 144A catastrophe bond, bringing 
+greater reinsurance capacity to the region. 
+Through our expertise in natural catastrophe risk, 
+modeling capabilities, efficient claims handling, 
+
+and strong relationships, we aim to play a pivotal 
+role in helping emerging markets better manage 
+and recover from climate-related risks.
+
+Effect of climate-related risks
+
+Physical risk 
+
+Physical risks refer to the impact on our business 
+from the physical consequences of climate 
+change, such as the increasing frequency of 
+extreme weather events like hurricanes and 
+floods (i.e., “acute physical risks”) and long-
+term environmental changes like rising global 
+temperatures and sea levels (i.e., “chronic 
+physical risks”).
+
+These risks are financially significant to Peak Re, 
+particularly in our P&C business lines. We maintain 
+strict underwriting guidelines and stringent 
+geographic and probable maximum loss (“PML”) 
+requirements to keep our cumulative exposure 
+to natural catastrophe risks at a manageable 
+level. This also includes risk mitigation through 
+diversification and securing adequate 
+retrocession cover.
+
+3   "2024 hottest on record, with August 1.51°C above pre-industrial level", Climate Action, 2024 
+4   "2024 Guy Carpenter mid-year renewal insights", Guy Carpenter & Company, LLC, 2024 
+5   "Global protection gaps and recommendations for bridging them", The Global Federation of Insurance Associations, 2023
+
+21
+
+Peak Re ESG Disclosure Report 2023
+
+We regularly assess, review, and report our portfolio 
+of natural catastrophe exposure to management. 
+We continue to expand resources in catastrophe 
+modeling and analytics to enhance our climate-
+conditioned modeling capabilities and work with 
+academia to improve our understanding of changes 
+in the frequency of extreme weather events.
+
+Advanced risk modeling and data analytics for 
+climate physical risks, including our internal research 
+on lower-intensity but higher-frequency secondary 
+perils (such as flash floods, hail, droughts, wildfires, 
+and landslides), enable thorough underwriting of 
+these risks.
+
+The impact of climate change on our life & health 
+(“L&H”) business is likely limited, also considering 
+the relatively short-term nature of our book. More 
+research is needed on the impacts on health and 
+mortality from climate change, and to what extent 
+medical advances and adaptation measures are 
+likely to offset these. 
+
+Physical risks can also affect our investment portfolio, 
+either from direct damage to physical assets of 
+investee companies or productivity losses coming 
+from business disruption due to extreme weather 
+events. We continue to actively monitor our exposure 
+to high-physical-risk assets. 
+
+From a risk management perspective, we 
+regularly discuss climate risks and stress-test our 
+balance sheet for significant increases in climate 
+change-related risks as part of our Own Risk and 
+Solvency Assessment ("ORSA") exercise. ORSA is an 
+annual review that tests our solvency and capital 
+adequacy under both normal and severe stress 
+scenarios, such as those caused by the increasing 
+frequency of natural disasters, to ensure we can 
+meet our reinsurance obligations.
+
+To further the industry’s collective understanding 
+of natural catastrophe risks, Peak Re regularly 
+collaborates with academia, scientific groups, 
+regulators and industry groups on data and research.
+
+Since 2015, Peak Re has collaborated with the 
+Shanghai Typhoon Institute ("STI") and Shanghai 
+Central Meteorological Observatory ("SCMO") on 
+storm tracking, providing insurers with a biannual 
+update on cyclone monitoring in the Northwest 
+Pacific Basin and the South China Sea, including 
+wind and rainfall predictions. 
+
+We also regularly host and participate in industry 
+events to share our knowledge of catastrophe risk 
+and pricing strategies with other stakeholders.
+
+Peak Re collaborates 
+with research 
+institutions in China 
+to forecasts seasonal 
+tropical cyclone 
+activities
+
+Transition risk
+
+Transition risks can broadly be classified into 
+technology change risks, policy change risks, and 
+risks from shifts in market supply and demand 
+due to the global transition to a low-carbon 
+future. We believe the transition risk for Peak Re’s 
+business is limited. The nature of our business 
+allows us to accommodate these risks through 
+annual contract renewals, regular reviews of our 
+underwriting assumptions, and new business 
+opportunities arising from industry shifts.
+
+For example, as the value of carbon-intensive 
+assets declines, the need for related reinsurance 
+coverage decreases. On the other hand, the 
+rise in green sustainable assets could lead to 
+increased reinsurance demand, particularly for 
+renewable energy infrastructure. 
+
+To further mitigate transition risks, we have 
+refined our underwriting guidelines to exclude 
+facultative exposure for new coal mining 
+construction and new thermal-coal-based 
+power plants, as well as unconventional fossil fuel 
+extraction, such as from the Arctic Basin and oil/
+tar sands.
+
+For the L&H portfolio, transitioning away from 
+fossil fuels could yield positive health impacts, 
+though the consequences of new technical 
+solutions for emissions mitigation (such as nuclear 
+power) remain uncertain.6
+
+6   "Climate Change: What does the future hold for health and life insurance?", The Geneva Association, 2024
+
+22
+
+Peak Re ESG Disclosure Report 2023
+
+Transition risks to our investment portfolio 
+could arise from the potential devaluation of 
+investments in high carbon emission sectors 
+(such as transport, utilities, and construction) or 
+companies lagging in ESG action. A preliminary 
+assessment of our investment portfolio using 
+the MSCI ESG database shows limited exposure 
+to these categories, with the caveat that data 
+availability on our regional fixed-income portfolio 
+was limited and subject to change. We intend to 
+further work with asset managers to enhance the 
+sustainability profile of our investment portfolio.
+
+Legal and reputational risk
+
+Legal and reputational risks that the reinsurance 
+industry faces with ESG investing and underwriting 
+could arise from:
+
+   ■ Inaction or insufficient actions on the part of  
+
+companies to support global decarbonisation 
+efforts or country-based targets.
+
+   ■ Potential miscommunication by companies 
+in the efforts that they are making towards 
+decarbonisation.
+
+   ■ Quickly evolving public expectations that 
+outpace delivery by the re/insurance and 
+financial services industries.
+
+   ■ Regulators delegating more climate 
+
+responsibilities to insurers and reinsurers.
+
+   ■ Legal or reputational risks could also arise from 
+the value chain for insurance and financial 
+companies. 
+
+Today’s legal changes could incur future liabilities. 
+For example, claimants might seek damages from 
+
+various companies for harm caused by climate 
+change, as seen in some cases against the oil 
+and gas sector. There are also legal risks related 
+to a “failure to adapt” or “failure to appropriately 
+account for the impact of climate change”. In the 
+financial industry, failing to take climate action 
+could eventually be viewed as falling short of 
+fiduciary duty.
+
+To mitigate legal and reputational risks, we strive 
+to ensure our sustainability efforts and actions are 
+accurately represented and continuously improve 
+our monitoring and accountability mechanisms. 
+We are also assessing stakeholder sentiment 
+to understand evolving expectations on ESG 
+taxonomies, metrics, and methodologies.
+
+Climate opportunities 
+
+Climate opportunities for reinsurers could arise 
+from increased demand for natural catastrophe 
+protection and climate risk expertise due to 
+extreme weather events. Additionally, new re/
+insurance opportunities may emerge from the 
+transition to low-carbon alternatives in energy, 
+transportation, property, and other sectors. We 
+have already observed rising market demand 
+for insurance products related to renewable 
+energy and electric vehicles. Carbon offset 
+insurance is another potential area of interest 
+for our risk solutions.
+
+We view these as significant business 
+opportunities for our clients and partners. 
+However, the lack of historical data on losses 
+and risks associated with new technologies may 
+complicate and increase the cost of underwriting. 
+Furthermore, innovative green technologies and 
+their applications are still in their infancy in many 
+of emerging Asia’s markets.
+
+Examples of recent climate-related opportunities at Peak Re:
+
+Low-carbon transition 
+In conjunction with our business partners, we provide 
+reinsurance support for renewable energy adoption, 
+including solar, wind, and bioenergy in Asia, the US and 
+Europe. In addition, we are also exploring opportunities such 
+as casualty covers for solar panel contingency facilities.
+
+and contributes to poverty reduction. This regional facility 
+provides risk financing and insurance solutions through a 
+partnership between the ASEAN+3 grouping (the 10 countries 
+of the Association of Southeast Asian Nations as well as 
+Japan, China and South Korea) and the World Bank, with an 
+aim to enhance financial resilience in the region. 
+
+Climate risks
+In Southeast Asian markets, we support protection against 
+natural catastrophes through our participation in the 
+Southeast Asia Disaster Risk Insurance Facility ("SEADRIF"). 
+Through pre-disaster planning and post-disaster relief 
+and reconstruction funding, SEADRIF protects people and 
+livelihoods, reinforces ongoing economic development 
+
+Natural perils pools
+We participate in several natural peril pools globally, 
+which provide affordable natural peril insurance for 
+homeowners in high-risk areas where protections would 
+otherwise become unaffordable. These are critical, 
+financially sustainable protections that help close 
+protection gaps in vulnerable areas.
+
+23
+
+Peak Re ESG Disclosure Report 2023
+
+Peak Re's participation in sustainability-related projects
+
+  United Kingdom:
+▪ Supporting  
+  affordability and  
+  availability of  
+  ﬂood insurance
+
+  Europe:
+▪ Natural 
+  perils pools
+
+  India:
+▪ Health and  
+  agriculture  
+insurance  
+
+  schemes
+
+  Thailand: 
+▪ Thai rice scheme
+
+Southeast Asia:
+▪ Southeast Asia 
+  Disaster Risk Insurance 
+  Facility (SEADRIF)
+
+  China:
+▪ Farmer’s houses  
+  and agriculture
+▪ Hospice care
+▪ Inclusive insurance  
+for pre-existing  
+
+  hypertensive    
+  conditions
+
+  Philippines: 
+▪ CARD Pioneer  
+  Microinsurance  
+  Scheme
+
+Global coverage for solar, 
+bioenergy and other 
+renewable industries
+
+Catastrophe bonds
+
+Broadening underwriting capacity is critical to our mission to close protection gaps in emerging Asia. 
+To this end, in 2022, we were the first reinsurer based in Hong Kong to issue a 144A catastrophe bond 
+("cat bond"), which helped to strengthen our capital base and increase our underwriting capacity. 
+The USD150 million issuance attracted significant investor interest, allowing for a 100% upsize from the 
+initially announced transaction size, and enabled us to enter into a multiyear retrocession agreement 
+to cover typhoon risk in Japan.
+
+This landmark deal allowed us to tap into the deeper financial market for capacity and support 
+the continued growth of our underwriting portfolio, enhancing our ability to support Asia’s 
+sustainable development. 
+
+Catastrophe bonds with parametric triggers, such as the one we issued in 2022, are designed to 
+release funds when specific conditions are met, such as the severity of an earthquake or windspeed 
+of a typhoon. Parametric bonds are increasingly being used in disaster risk financing given they pay 
+claims speedily to support reconstruction and rehabilitation efforts. A 2022 IMF paper characterised 
+catastrophe bonds as among “the most prominent innovations in the field of sustainable finance in the 
+last 15 years.7
+
+7   "Sovereign Climate Debt Instruments: an Overview of the Green and Catastrophe Bond Markets", International Monetary Fund, 2022
+
+24
+
+Peak Re ESG Disclosure Report 2023
+
+ 
+ 
+ 
+SDGs + CSR 
+
+Responsible Underwriting and 
+Support to Communities
+
+25
+
+Peak Re ESG Disclosure Report 2023
+
+SDGs + CSR
+
+Contribution to SDGs and CSR    
+
+Peak Re’s performance standards and exclusion screens such 
+as those around controversial weapons, tobacco, and pollution 
+have, since its early days, aligned our business with the United 
+Nations ("UN") Sustainable Development Goals (“SDG”) such as 
+SDG 3: Good health and well-being. Our founding mission of 
+closing the protection gaps in emerging markets is also aligned 
+with SDG 8: Decent work and economic growth, and SDG 1: No 
+poverty, as our business is fundamentally aligned to supporting 
+post-disaster financial resilience.
+
+In addition, our strong partnerships in the region and 
+
+our support for inclusive policies, such as microinsurance 
+schemes for women, government health and agricultural 
+insurance schemes, and innovative health products that 
+promote inclusion of vulnerable populations, align with SDG 
+10: Reduced inequalities and SDG 17: Partnership for goals. 
+
+As part of our ESG strategy review, we look to further 
+formalise our business framework to promote our 
+participation in sustainable insurance programs in the Asian 
+emerging markets. We are also exploring ways to measure 
+our business impact on sustainable development.
+
+United Nations’ Sustainable Development Goals
+
+Our mission to close the protection gaps for 
+the emerging middle class aligns with SDG1. 
+The emerging middle class remains vulnerable 
+to falling into poverty due to economic shocks 
+such as job loss, illness and natural disasters.
+
+We support good health and well-being 
+by advocating for inclusive health 
+insurance in emerging Asia, where many 
+populations lack access to affordable 
+and quality healthcare.
+
+Through innovative ﬁnancial inclusion 
+solutions, such as collaborations on 
+microinsurance for women and health solutions 
+for vulnerable and excluded populations, we 
+aim to reduce inequalities in the availability 
+and accessibility of insurance protection.
+
+Emerging Asia is particularly vulnerable to 
+the increasing severity and frequency of 
+extreme weather events due to climate 
+change. Protecting livelihoods and 
+properties from natural catastrophes 
+supports SDG 13.
+
+Supporting economic growth 
+in emerging markets is 
+central to our mission. Our 
+contributions to building and 
+upgrading critical transport 
+and utility infrastructure drive 
+economic growth and 
+improve living standards in 
+these regions.
+
+26
+
+Peak Re ESG Disclosure Report 2023
+
+participated in multiple events in 2023-24 aimed at 
+educating and helping to integrate environmental and social 
+responsibility into daily lives. Throughout the engagement, 
+Peak Re and CCIL jointly organise awareness-building 
+activities with an emphasis on climate solutions and making 
+a positive impact across the community.
+
+Creating a positive impact with CSR
+
+Peak Re staff regularly engage in corporate social 
+responsibility (“CSR”) activities, charity and outreach 
+programmes and contribute to local communities 
+through poverty alleviation projects, knowledge sharing 
+and activities that help build sustainable lifestyles. We 
+collaborate with local NGOs and community projects to 
+amplify our impact with our time, energy and commitment.
+
+ESG awareness partnership with CCIL: 
+
+As part of a strategic partnership with CarbonCare Innolab 
+(“CCIL”), a Hong Kong based NGO, Peak Re employees 
+
+Organic food production
+
+To increase awareness about locally produced organic food 
+in Hong Kong, Peak Re employees and their families engaged 
+in a day of organic ecofarming. After an educational session, 
+employees got involved in ploughing, planting, weeding, watering 
+and harvesting, as well as preparing a healthy lunch from freshly 
+picked farm produce.
+
+Solar energy tour with SEN students
+
+In partnership with CarbonCare InnoLab ("CCIL"), Peak Re 
+joined SEN students from Mary Rose School, Hong Kong, on 
+an inspiring solar energy tour on 17 May 2024. In addition to 
+discussing sustainable energy, the event focussed on diversity 
+and inclusion. The day included experiential learning on 
+renewable energy, interactive climate change games, and 
+sharing with SEN students. 
+
+Low-carbon cooking
+
+Small changes in habits can have a large impact on the 
+environment. To bring attention to the environmental impact 
+of the food we consume, and how we prepare our food, an 
+accredited dietician guided Peak Re employees through the 
+preparation of a low-carbon, healthy and delicious meal. 
+
+Nutritional insights for physical and mental wellbeing
+
+In the spirit of employee well-being, combined with our “Green 
+Monday” healthy vegetarian lunch initiative, Peak Re invited 
+nutritional experts to share their insights on how specific 
+foods, diets and nutrients can boost gastro-intestinal, immune 
+system and mental health. 
+
+27
+
+Peak Re ESG Disclosure Report 2023
+
+Local community education  
+
+Peak Re has partnered with 
+Tasse Coffee, a local Hong 
+Kong community education 
+project. Tasse teaches 
+coffee culture and business 
+skills to disadvantaged 
+communities and has a focus 
+on empowering women. As 
+part of the initiative, Peak Re 
+sponsored coffee, prepared 
+by Tasse trainees, for our Hong 
+Kong office. This initiative 
+supports underprivileged 
+workers in re-training for jobs 
+and re-entering the workforce, 
+ultimately supporting 
+sustainable development in 
+Hong Kong.
+
+UNESCO World 
+Heritage: Restoration 
+and clean-up  
+
+In partnership with the 
+St. George Foundation, 
+Peak Capital Bermuda 
+volunteered to restore 
+Bermuda's largest 
+fortification, Fort St. 
+Catherine – a UNESCO 
+World Heritage Site. Peak 
+Re volunteers worked 
+to clean and repair the 
+surrounding grounds with 
+the goal of giving back 
+to their community in a 
+meaningful way.
+
+Making changes for the environment
+
+Blood donation drive
+
+In the spirit of sharing how small actions can impact our energy 
+consumption and carbon footprint, a Biz-Green Dress Day was 
+organised in the Hong Kong office. Air conditioning was adjusted in 
+our offices to save energy, and employees were encouraged to come 
+to work dressed in light fabrics in smart casual clothing. In addition, 
+healthy, vegetarian organic meals were provided.
+
+Peak Re volunteers participated in a blood donation drive 
+organized in collaboration with the Hong Kong Red Cross 
+Blood Transfusion Service. The initiative shows our support 
+for the health and well-being of the communities that we 
+work in, aligning with our mission to create social impact.
+
+Peak Re support for Yongping
+
+A project close to Peak Re’s heart is one that addresses poverty and 
+fosters sustainable development in Yongping, China. Peak Re has 
+established a deep and ongoing relationship with tea farmers in an 
+initiative centred on procuring, packaging and promoting exceptional 
+teas for our corporate gifts.
+
+The project meticulously sources tea from the Dapingtan Tea Garden, 
+which is renowned for its organic and chemical-free farming practices. 
+The selection of teas, handpicked by local farmers, is a testament to 
+our responsible sourcing policy while contributing to local livelihoods. 
+Our consistent purchases assist villagers with household expenses and 
+children's education.
+
+Peak Re's staff are actively engaged in this undertaking. They dedicate 
+time and effort to packaging teas into specially designed gift boxes 
+during annual events. Our team not only facilitates the project but also 
+forges personal connections with the region, leading to a deeper sense of 
+community and social responsibility.
+
+2024 Tea packing
+
+28
+
+Peak Re ESG Disclosure Report 2023
+
+Looking 
+Ahead
+
+Aligning with International 
+Standards and Best Practices
+
+29
+
+Peak Re ESG Disclosure Report 2023
+
+Looking Ahead
+
+Advancing Our ESG Journey     
+
+Peak Re continues to take proactive steps to review and 
+enhance its ESG strategy, aligning with international 
+standards and best practices. In 2023, we initiated a project 
+to measure and benchmark our performance against 
+regulatory expectations and industry standards. Additionally, 
+we conducted a materiality assessment to identify the 
+ESG issues impacting Peak Re and to gain insights into our 
+stakeholders’ ESG expectations.
+
+ESG strategy review 
+
+“Excellence in ESG” is a mantra we follow as part of our 
+corporate culture and strategy. We are currently reviewing 
+our ESG strategy and developing a roadmap for the next 
+3-5 years to advance our ESG goals and commitments. 
+As part of these initiatives, we aim to refine our ESG 
+governance structure, including ESG monitoring and the 
+development of functional KPIs.
+
+Regarding climate change, we continue to add resources 
+to our meteorologists and analysts to enhance our climate-
+conditioned modeling capabilities. We also seek to deepen 
+ESG integration within different business lines by developing 
+a framework to capitalise on the considerable opportunities 
+that ESG and the global transition are likely to bring.
+
+Emissions baselining
+
+We have initiated an emissions baselining exercise for 
+2023 at Peak Re’s Hong Kong headquarters, where most 
+of our employees and operations are based. As a financial 
+institution, the largest component of our emissions is likely to 
+come from financed emissions via our investment portfolio 
+and underwriting emissions. We have started gathering 
+data on our investments using the MSCI ESG database and 
+are exploring collaborations with external fund managers 
+to accurately measure our investment-related emissions 
+
+and develop suitable ESG targets for our portfolio. For 
+underwriting emissions, we are in communication with the 
+Partnership for Carbon Accounting Financials ("PCAP") who is 
+developing guidelines and standards for treaty underwriting.
+
+Aligning on disclosures 
+
+We are closely following regulatory developments across 
+the jurisdictions in which we operate and the changes in 
+disclosure standards. This includes the introduction of the 
+IFRS Sustainability Disclosure Standards (IFRS S1 - General 
+Requirements for Disclosure of Sustainability-related Financial 
+Information and IFRS S2 - Climate-related Disclosures) by the 
+International Sustainability Standards Board ("ISSB") in 2023. 
+Hong Kong is one of the jurisdictions that has adopted the 
+IFRS S2 standards into its ESG disclosure requirements. We 
+have conducted a gap analysis for Peak Re to align with these 
+standards and are discussing ways to narrow these gaps in 
+preparation for future adoption.
+
+A sustainable future
+
+With the growing importance of ESG to our business and 
+stakeholders, we aim to continually monitor our progress 
+on ESG strategy and implementation, enhance our 
+data, research, and risk management on ESG risks and 
+opportunities, reduce our carbon footprint, and support our 
+clients in climate risk mitigation and adaptation, as well as 
+their progress on the global United Nations ("UN") Sustainable 
+Development Goals (“SDG”).
+
+Peak Re remains committed to developing innovative 
+reinsurance and risk management solutions that support 
+the global low-carbon transition while advancing social 
+development goals and economic growth in emerging 
+markets. We look forward to working with our partners and 
+stakeholders to support sustainable insurance for the future.
+
+IDENTIFY
+and resolve gaps 
+between 
+communicated 
+and actual ESG 
+practices
+
+BUILD
+capacity and 
+training to improve 
+capability to meet 
+ESG challenges
+
+EXPAND
+data collection to 
+better inform 
+decision-making
+
+UPDATE
+risk analytic to 
+identify, analyse 
+and manage ESG 
+risks
+
+ELEVATE
+ESG policies to 
+embed ESG into 
+respective 
+functions
+
+INTEGRATE
+wider business 
+strategies with 
+ESG-related 
+opportunities
+
+30
+
+Peak Re ESG Disclosure Report 2023
+
+Disclaimer
+
+Peak Re provides the information contained in this document for general information purposes only. No representation or guarantee 
+is made as to the accuracy, completeness, reasonableness or suitability of this information or any other linked information presented, 
+referenced or implied. All critical information should be independently verified and Peak Re accepts no responsibility or liability for any 
+loss arising or which may arise from reliance on the information provided.
+
+All information and/or data contained in this document is provided as of the date of this document and is subject to change without 
+notice. Neither Peak Re nor any of its affiliates accepts any responsibility or liability for any loss caused or occasioned to any person 
+acting or refraining from acting on the basis of any statement, fact, text, graphic, figure or expression of belief contained in this 
+document or communication.
+
+All rights reserved. The information contained in this document is for your information only and no part of this document may be 
+reproduced, stored or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without 
+the prior written permission of Peak Re. Any other information relating to this document, whether verbal, written or in any other form, 
+given by Peak Re either before or after your receipt of this document shall be provided on the same basis as set out in this disclaimer.
+
+This document is not intended to constitute advice or recommendation, and should not be relied upon or treated as a substitute for 
+advice or recommendation appropriate to any particular circumstances.
+
+© 2024 Peak Reinsurance Company Limited.
+
+Peak Reinsurance Company Limited
+
+15/F, WKCDA Tower, 
+No. 8 Austin Road West, 
+West Kowloon Cultural District, 
+Kowloon, Hong Kong
+
+T:   +852 3509 6666 
+E:   info@peak-re.com 
+
+Peak Reinsurance AG
+
+Fortunagasse 28, 3rd Floor,
+8001 Zurich, 
+Switzerland
+
+T:   +41 (0) 43819 20 60 
+
+  www.peak-re.com
+
+ Peak-Re
+
+
